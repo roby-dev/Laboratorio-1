@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Body mass index</string>
+    <string name="btnMostrarIMC">Show IMC</string>
+    <string name="txtTalla">Insert height</string>
+    <string name="txtPeso">Insert weight</string>
+    <string name="talla">m</string>
+    <string name="peso">Kg</string>
+    <string-array name="tipo">
+        <item>Metric</item>
+        <item>English</item>
+    </string-array>
+    <string name="lblTipo">Select system: </string>
+    <string name="resultado">Your body mass index is: </string>
+    <string name="txtRecomendacion">Your recomendation: </string>
+    <string-array name="recomendaciones">
+        <item>You are underweight, check your diet and gain a few kilograms / pounds.</item>
+        <item>You are in normal condition, stay in that condition.</item>
+        <item>You are overweight, check your diet and lose a few kilograms / pounds.</item>
+        <item>You are obese, change your eating habits and actions, you need to lose weight</item>
+    </string-array>
+</resources>

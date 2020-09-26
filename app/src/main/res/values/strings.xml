@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Índice de masa corporal</string>
+    <string name="btnMostrarIMC">Mostrar IMC</string>
+    <string name="txtTalla">Ingrese talla</string>
+    <string name="txtPeso">Ingrese peso</string>
+    <string name="talla">m</string>
+    <string name="peso">Kg</string>
+    <string-array name="tipo">
+        <item>Métrico</item>
+        <item>Inglés</item>
+    </string-array>
+    <string name="lblTipo">Seleccione sistema: </string>
+    <string name="resultado">Su índice de masa corporal es de: </string>
+    <string name="txtRecomendacion">Su recomendación: </string>
+    <string-array name="recomendaciones">
+        <item>Usted está bajo de peso, verifique su dieta y suba unos cuantos kilos/libras.</item>
+        <item>Usted está en condiciones normales, manténgase en ese estado.</item>
+        <item>Usted tiene sobrepeso, verifique su dieta y baje unos kilos/libras.</item>
+        <item>Usted tiene obesidad, cambie sus hábitos de comida y acciones, necesita bajar de peso</item>
+    </string-array>
+</resources>
